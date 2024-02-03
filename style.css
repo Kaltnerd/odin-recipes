@@ -1,0 +1,15 @@
+body {
+  background-color: hsl(208, 100%, 97%);
+}
+h1,
+h2,
+h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: hsl(0, 74%, 36%);
+  background-color: hsl(0, 32%, 90%);
+}
+
+.prep {
+  font-size: 16px;
+  background-color: aqua;
+}
